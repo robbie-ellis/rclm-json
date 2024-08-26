@@ -3,6 +3,6 @@
     ["acrys", "Test 1.  Word should be 'acrys'"],
     ["þaẏ", "Test 2.  Word is þaẏ.  Just making this description longer for testing purposes."],
     ["ẏow", "Test 3.  Word is ẏow.  You deserve a doughnut."],
-    ["for", "Test 4.  Testing a frequently occurring word.  Should be 'for'"]
+    ["of", "Test 4.  Testing a frequently occurring word.  Should be 'of'"]
   ]
 }
