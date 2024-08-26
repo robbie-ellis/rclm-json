@@ -1,7 +1,8 @@
 {
   "gloss": [
-    ["acrys", "A four legged jerk."],
-    ["þaẏ", "When your leg falls asleep, and it is imperative that you keep it a secret."],
-    ["ẏow", "A sincere expression of pain."]
+    ["acrys", "Test 1.  Word should be 'acrys'"],
+    ["þaẏ", "Test 2.  Word is þaẏ.  Just making this description longer for testing purposes."],
+    ["ẏow", "Test 3.  Word is ẏow.  You deserve a doughnut."],
+    ["for", "Test 4.  Testing a frequently occurring word.  Should be 'for'"]
   ]
 }
